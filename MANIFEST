@@ -1,0 +1,11 @@
+Changes
+lib/Net/Imgix.pm
+Makefile.PL
+MANIFEST			This list of files
+README
+t/00-load.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
+
+/home/ed/Downloads/Net-Imgix/ignore.txt, /home/ed/Downloads/Net-Imgix/.git/description, /home/ed/Downloads/Net-Imgix/.git/HEAD, /home/ed/Downloads/Net-Imgix/.git/config, /home/ed/Downloads/Net-Imgix/.git/hooks/prepare-commit-msg.sample, /home/ed/Downloads/Net-Imgix/.git/hooks/post-update.sample, /home/ed/Downloads/Net-Imgix/.git/hooks/update.sample, /home/ed/Downloads/Net-Imgix/.git/hooks/pre-push.sample, /home/ed/Downloads/Net-Imgix/.git/hooks/commit-msg.sample, /home/ed/Downloads/Net-Imgix/.git/hooks/pre-commit.sample, /home/ed/Downloads/Net-Imgix/.git/hooks/pre-applypatch.sample, /home/ed/Downloads/Net-Imgix/.git/hooks/applypatch-msg.sample, /home/ed/Downloads/Net-Imgix/.git/hooks/pre-rebase.sample, /home/ed/Downloads/Net-Imgix/.git/info/exclude, /home/ed/Downloads/Net-Imgix/xt/boilerplate.t, /home/ed/Downloads/Net-Imgix/t/main.t
